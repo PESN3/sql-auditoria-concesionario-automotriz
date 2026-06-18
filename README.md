@@ -60,7 +60,7 @@ El script principal incluye tres módulos adicionales diseñados para responder 
 ## 👤 Autor
 
 **Pedro Emmanuel Sanchez Noriega** - Analista de Datos
-*Especializado en análisis de comportamiento organizacional, control operativo, optimización de procesos y analítica de negocio (BI).*
+
 
 ---
 
